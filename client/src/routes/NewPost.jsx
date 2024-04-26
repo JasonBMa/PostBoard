@@ -34,6 +34,6 @@ export async function action({request}){
       'Content-Type': "application/json"
     },
   });
-  
+  window.location.reload();
   return redirect('/');
 }
