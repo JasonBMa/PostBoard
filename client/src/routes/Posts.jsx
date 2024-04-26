@@ -5,7 +5,7 @@ function Posts() {
   return (
     <>
       <Outlet/>
-      <div className="w-full h-1/2 py-3 px-10">
+      <div className="lg:w-2/3 w-full h-1/2 py-3 px-10">
         <PostsList/>
         <button className="button a">Random mf button</button>
       </div>

@@ -1,1 +1,58 @@
-{"posts":[{"body":"Creating this site has been quite enjoyable","title":"Corn","author":"Sam Stanford","id":"0.29641189322793515"},{"body":"Coding has been quite enjoyable lately!","title":"Onion","author":"Buford Jones","id":"0.6117318726683418"},{"title":"Potato","body":"I love to Code","author":"Jason Ma","id":"post-1"},{"title":"Carrot","body":"I hate coding","author":"John Doe","id":"post-2"},{"title":"Spinach","body":"I Code in my free time","author":"Jane Doe","id":"post-3"},{"title":"Broccoli","body":"Coding is a waste of time use AI","author":"Hubert Smith","id":"post-4"}]}
+{
+    "posts": [
+        {
+            "title": "Cabbage",
+            "body": "I_spilled_coffee_all over_my_keyboard_what_do_I do!!!_HELP!!!?!!!",
+            "author": "SpaceDoesn'tWork",
+            "id": "0.6938475469014442"
+        },
+        {
+            "title": "Cilantro",
+            "body": "I'm here to just blabber, blah blah blah blah",
+            "author": "Mike Hawk",
+            "id": "0.5195360683542185"
+        },
+        {
+            "title": "Jalapeno",
+            "body": "I like to compete in hackathons.",
+            "author": "Peaches Jones",
+            "id": "0.6149427801820277"
+        },
+        {
+            "body": "Creating this site has been quite enjoyable",
+            "title": "Corn",
+            "author": "Sam Stanford",
+            "id": "0.29641189322793515"
+        },
+        {
+            "body": "Coding has been quite enjoyable lately!",
+            "title": "Onion",
+            "author": "Buford Jones",
+            "id": "0.6117318726683418"
+        },
+        {
+            "title": "Potato",
+            "body": "I love to Code",
+            "author": "Jason Ma",
+            "id": "post-1"
+        },
+        {
+            "title": "Carrot",
+            "body": "I hate coding",
+            "author": "John Doe",
+            "id": "post-2"
+        },
+        {
+            "title": "Spinach",
+            "body": "I Code in my free time",
+            "author": "Jane Doe",
+            "id": "post-3"
+        },
+        {
+            "title": "Broccoli",
+            "body": "Coding is a waste of time use AI",
+            "author": "Hubert Smith",
+            "id": "post-4"
+        }
+    ]
+}

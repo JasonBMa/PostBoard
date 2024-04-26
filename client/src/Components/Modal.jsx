@@ -2,9 +2,11 @@ import { useNavigate } from 'react-router-dom'
 import React from 'react'
 const Modal = ({children}) => {
   const navigate = useNavigate();
+
   function onClose(){
     navigate('/');
   }
+  
   return (
     <>
       {/*Makes it so that clicking out side of the modal/dialog will cause the UI to close, while applying styling to make the background dark*/}
