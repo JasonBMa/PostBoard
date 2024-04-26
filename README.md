@@ -14,5 +14,6 @@ Then boot up client
 cd client
 npm run dev
 ```
+![PostBoardDemo](https://github.com/JasonBMa/PostBoard/blob/main/PostBoardDemo.gif)
 
 Explore the New Post feature, and clicking on existing post to view in detail.
